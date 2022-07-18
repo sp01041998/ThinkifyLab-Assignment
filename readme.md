@@ -21,7 +21,7 @@
 --take user details as a input and save them in userInfo Array(locally on the system).
 
 
-```
+
 
 ### update_user(username, updated_details)
 
