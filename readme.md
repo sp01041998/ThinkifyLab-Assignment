@@ -1,4 +1,4 @@
-## Colexion Assignment
+## ThinkifyLab Assignment
 
 
 ## FEATURE - User
