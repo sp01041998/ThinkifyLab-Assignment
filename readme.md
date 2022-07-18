@@ -37,18 +37,7 @@
 
 ```
 
-## FEATTURE II - Product
-### Models
-- Product Model
-```yaml
-{ 
-  title: {string, mandatory, unique},
-  price: {number, mandatory, valid number},
-  code : {number, mandatory, unique},
-  createdAt: {timestamp},
-  updatedAt: {timestamp},
-}
-```
+
 
 ## FEATURE - User
 ### DriverInfo Array
